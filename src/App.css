@@ -1,4 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
 .app-header{
   text-align: center;
   padding: 25px;
+}
+
+.header{
+  font-family: "Lora", serif;
+  font-size: 45px;
 }
